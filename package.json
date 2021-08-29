@@ -1,0 +1,33 @@
+{
+  "name": "markdown-it-markmap",
+  "version": "1.0.0",
+  "description": "Markmap plugin for markdown-it markdown parser",
+  "main": "index.js",
+  "dependencies": {
+    "markmap-lib": "^0.11.6",
+    "markmap-view": "^0.2.6"
+  },
+  "devDependencies": {
+    "markdown-it": "^12.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kampfer/markdown-it-markmap.git"
+  },
+  "keywords": [
+    "markdown",
+    "markdown-it",
+    "plugin",
+    "markmap",
+    "mindmap"
+  ],
+  "author": "kampfer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kampfer/markdown-it-markmap/issues"
+  },
+  "homepage": "https://github.com/kampfer/markdown-it-markmap#readme"
+}
